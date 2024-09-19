@@ -20,7 +20,7 @@ h1 {
     font-size: 48px;
 }
 
-ul {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -111,19 +111,21 @@ p {
 .benefit-lead img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 150px; max-height: 150px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    max-height: 150px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    max-height: 150px; 
 }
 
 .search-engine-optimization {
@@ -132,7 +134,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #ffffff; 
 }
 
 .online-reputation-management {
@@ -187,6 +189,3 @@ p {
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
-}
