@@ -12,3 +12,5 @@ This site is to help our business owners learn what customers are searching for 
 ## Credits
 N/A
 
+## License
+Refer to license listed in the repository
